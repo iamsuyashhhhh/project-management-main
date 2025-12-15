@@ -154,7 +154,10 @@ npm start
 
 ## Screenshots
 
-Add screenshots inside a `screenshots/` folder and reference them here.
+![Dashboard](Teams.jpeg)
+![Projects](project_analytics.jpeg)
+![Tasks](projects_tasks.jpeg)
+
 
 ---
 
